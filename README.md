@@ -32,7 +32,7 @@ To begin, used Python and SQLAlchemy to do basic climate analysis and data explo
     * Filter by the station with the highest number of observations.
     * Plot the results as histogram with ```bins=12```.
 
-![](Surfsup/Images/tobs.png)
+![](SurfsUp/Images/tobs.png)
 
 ## Step 2 - Climate App
 
